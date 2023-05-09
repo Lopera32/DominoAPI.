@@ -10,5 +10,5 @@ Este ejercicio consiste en construir una cadena con fichas de dominó. Implement
 
 Las siguientes son las credenciales que se deben enviar para obtener la validación y autorización por medio del token.
 
-Login: jsloperag
+Login: jsloperagdv@gmail.com
 Password: holamundo
