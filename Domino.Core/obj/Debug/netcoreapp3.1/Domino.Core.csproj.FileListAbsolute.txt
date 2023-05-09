@@ -1,0 +1,89 @@
+C:\LAURA SOFIA\DominoAPI\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+C:\LAURA SOFIA\DominoAPI\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoAPI\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoAPI\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\DominoAPI\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\DominoAPI\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\DominoAPI\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+C:\LAURA SOFIA\DominoAPI\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\DominoAPI\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoAPI\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\1053872947\Downloads\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\Domino-master\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+C:\LAURA SOFIA\Domino-master\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-master\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+C:\LAURA SOFIA\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-master\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\Domino\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+D:\Proyectos\Domino\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\Domino\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+D:\Proyectos\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+D:\Proyectos\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+D:\Proyectos\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\Domino\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.deps.json
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.AssemblyInfo.cs
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\Domino.Core.pdb

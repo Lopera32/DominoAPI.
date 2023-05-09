@@ -1,0 +1,10 @@
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\DominoPT.Core.deps.json
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\DominoPT.Core.dll
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\bin\Debug\netcoreapp3.1\DominoPT.Core.pdb
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\DominoPT.Core.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\DominoPT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\DominoPT.Core.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\DominoPT.Core.AssemblyInfo.cs
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\DominoPT.Core.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\DominoPT.Core.dll
+C:\LAURA SOFIA\Domino-Prueba\Domino.Core\obj\Debug\netcoreapp3.1\DominoPT.Core.pdb

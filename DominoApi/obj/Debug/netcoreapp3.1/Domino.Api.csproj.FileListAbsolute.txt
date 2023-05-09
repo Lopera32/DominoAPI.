@@ -1,0 +1,574 @@
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.xml
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Domino.Api.styles.css
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\LAURA SOFIA\DominoAPI\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\LAURA SOFIA\DominoAPI\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.StaticWebAssets.xml
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Pack.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Domino.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Domino.Api.props
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Domino.Api.props
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Domino.Api.props
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.xml
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Domino.Api.styles.css
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\Users\1053872947\Downloads\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\Domino-master\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.xml
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Domino.Api.styles.css
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\Domino-master\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.StaticWebAssets.xml
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Pack.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Domino.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Domino.Api.props
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Domino.Api.props
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Domino.Api.props
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+D:\Proyectos\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.StaticWebAssets.xml
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Pack.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Domino.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Domino.Api.props
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Domino.Api.props
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Domino.Api.props
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.StaticWebAssets.xml
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\Domino\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Pack.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Domino.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Domino.Api.props
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Domino.Api.props
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Domino.Api.props
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+D:\Proyectos\Domino\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.xml
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Domino.Api.styles.css
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.exe
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.deps.json
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.json
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.runtimeconfig.dev.json
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.AssemblyInfo.cs
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.Manifest.cache
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\staticwebassets\Domino.Api.StaticWebAssets.xml
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Domino.Api.styles.css
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.RazorTargetAssemblyInfo.cache
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.csproj.CopyComplete
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.dll
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.pdb
+C:\LAURA SOFIA\Domino-Prueba\DominoApi\obj\Debug\netcoreapp3.1\Domino.Api.genruntimeconfig.cache

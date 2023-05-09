@@ -1,0 +1,144 @@
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+C:\LAURA SOFIA\DominoAPI\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\1053872947\Downloads\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\Domino-master\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+D:\Proyectos\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\Users\lsgon\source\repos\CleanArchitecture\DominoApi\DominoApi\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+D:\Proyectos\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+D:\Proyectos\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+D:\Proyectos\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+D:\Proyectos\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+D:\Proyectos\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+D:\Proyectos\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+D:\Proyectos\Domino\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+D:\Proyectos\Domino\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\DominoPT\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.deps.json
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.json
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.runtimeconfig.dev.json
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.dll
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\bin\Debug\netcoreapp3.1\Domino.Core.pdb
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.AssemblyReference.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfoInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.AssemblyInfo.cs
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CoreCompileInputs.cache
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.csproj.CopyComplete
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.dll
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.pdb
+C:\LAURA SOFIA\Domino-Prueba\Domino.Infrastructure\obj\Debug\netcoreapp3.1\Domino.Infrastructure.genruntimeconfig.cache
